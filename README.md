@@ -2,13 +2,16 @@
 
 ## Home page
 
+
 Press the paste button to paste the YouTube video url. You can change the download location before the download begins to either Downloads or ask.
+
 ![Home page](Capture.PNG)
 
 ## Download page
 
+
 Download the video based on the resolution you want.
-![Download page](Capture2.png)
+![Download page](Capture2.PNG)
 
 ## Issues
 
