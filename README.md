@@ -11,6 +11,7 @@ Press the paste button to paste the YouTube video url. You can change the downlo
 
 
 Download the video based on the resolution you want.
+
 ![Download page](Capture2.PNG)
 
 ## Issues
